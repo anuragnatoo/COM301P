@@ -1,0 +1,5 @@
+anurag@anurag-Lenovo-ideapad-310-14ISK:~/oslab/midsem$ gcc Question2.c -lpthreadanurag
+@anurag-Lenovo-ideapad-310-14ISK:~/oslab/midsem$ ./a.out cat input1.txt input2.txt
+abcdefgh
+ijklmnopqrst
+
